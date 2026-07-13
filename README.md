@@ -152,6 +152,14 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 > ThingSpeak可以处理HTTP请求，并存储和处理数据。这个开放数据平台的主要功能包括开放应用程序、实时数据收集、地理位置数据、数据处理和可视化、设备状态信息和插件。它可以集成多个硬件和软件平台，包括Arduino、树莓派、ioBridge/RealTime.io、Electic lmp、移动和网络应用、社会网络和MATLAB数据分析。除了开源版本，还提供托管服务。
 
+###IoT DC3
+
+> IoT DC3 是一个基于 Spring Cloud 的完全开源的分布式工业物联网平台，内置 28 种协议驱动（Modbus、OPC UA、西门子 S7、BACnet、MQTT、CoAP 等），支持 AI 智能运维、微服务架构、JWT + RBAC 认证、租户隔离和时序存储。
+
+主页: [https://github.com/pnoker/iot-dc3](https://github.com/pnoker/iot-dc3)
+
+文档: [https://docs.dc3.site](https://docs.dc3.site)
+
 ##物联网相关嵌入式操作系统
 
 > 实时系统（Real-time operating system,RTOS）的正确性不仅依赖系统计算的逻辑结果，还依赖于产生这个结果的时间。实时系统能够在指定或者确定的时间内完成系统功能和外部或内部、同步或异步时间做出响应的系统。因此实时系统应该在事先先定义的时间范围内识别和处理离散事件的能力；系统能够处理和储存控制系统所需要的大量数据。
